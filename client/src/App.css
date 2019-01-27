@@ -1,0 +1,21 @@
+body {
+  background-color: #282c34;
+  height: 100vh;
+}
+
+.App {
+  text-align: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.form-control {
+  width: 10vw;
+}
+
+p {
+}
